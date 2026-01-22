@@ -20,12 +20,12 @@ I wanted to compare shooting and ball handling because they are two core skills 
 ## Word clouds (results)
 
 ### Word Cloud 1: Shooting-focused search
-![Word Cloud 1](wordcloud-1.png)
+![Word Cloud 1](img/wordcloud-1.png)
 
 The shooting cloud is dominated by SHOOT, along with big supporting terms like WORKOUT, DRILL, BASKETBALL, and COACH. What this suggests to me is that shooting content is marketed as structured training sessions: drills, workouts, and coaching. Even without watching the videos, the language makes it feel like the main promise is direct performance improvement and better shooting through repetition and instruction.
 
 ### Word Cloud 2: Ball-handling-focused search
-![Word Cloud 2](wordcloud-2.png)
+![Word Cloud 2](img/wordcloud-2.png)
 
 The ball-handling cloud is dominated by HANDLE and BALL, with strong supporting words like DRIBBLE, CONTROL, RHYTHM, COORDINATION, DEFENSE, and MOVEMENT. This one feels more mechanical and process-based. Instead of focusing on a single end result, the language points to how the skill works: staying low, controlling the ball, moving through cones, handling pressure, and building coordination.
 
@@ -50,3 +50,4 @@ If I did this again, I would:
 ## Download the datasets (CSV)
 - Result 1 (CSV): https://drive.google.com/file/d/1gZnvWEIR-UosaQ6_Qy718DLk5XNNAPt6/view?usp=sharing  
 - Result 2 (CSV): https://drive.google.com/file/d/1qYHFzO0bD9Lf2NjLsw4IVaP6fEY9dMVT/view?usp=sharing
+
